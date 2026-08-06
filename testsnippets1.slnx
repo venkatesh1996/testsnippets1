@@ -1,0 +1,5 @@
+<Solution>
+  <Project Path="EFCwithWebAPI/EFCwithWebAPI.csproj" Id="b12459f2-3435-47b2-b281-770a4fe335fb" />
+  <Project Path="testsnippets1/testsnippets1.csproj" />
+  <Project Path="Testsnippets2forpractice/Testsnippets2forpractice.csproj" Id="5bf31bf6-52fa-4a75-9561-4e7f784f537d" />
+</Solution>
