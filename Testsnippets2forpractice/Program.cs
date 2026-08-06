@@ -10,7 +10,11 @@ namespace Testsnippets2forpractice
             CheckPalindrome("A man a plan a canal Panama");
             checkPalindromeWithLinq("Was it a car or a cat I saw");
             checkPalindromeForNumbers(12321);
+<<<<<<< HEAD
             Console.WriteLine("End of the program");
+=======
+            Console.WriteLine("Hello, World!");
+>>>>>>> 9adac0761ba000bbdf98e8fab7ccd630862c76b3
         }
     }
 }
