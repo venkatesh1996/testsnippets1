@@ -1,0 +1,10 @@
+{
+  "profiles": {
+    "Testsnippets2forpractice": {
+      "commandName": "Project"
+    },
+    "Container (Dockerfile)": {
+      "commandName": "Docker"
+    }
+  }
+}
